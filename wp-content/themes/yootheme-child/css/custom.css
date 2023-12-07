@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "barcade-brawl";
+  src: url("../fonts/barcade-brawl.eot");
+  src: url("../fonts/barcade-brawl.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/barcade-brawl.woff2") format("woff2"),
+    url("../fonts/barcade-brawl.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "vcr-osd-mono";
+  src: url("../fonts/vcr-osd-mono.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
